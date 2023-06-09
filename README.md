@@ -33,4 +33,4 @@ JCStorage is a storage system that uses a logical data organization model called
 
 ### Built With
 
-- Linguagem C
+- C language
